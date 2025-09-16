@@ -1,7 +1,3 @@
-profile
-Qwen3-Max-Preview
-11:22 pm
-Perfect — here’s your final, ultra-attractive, personality-packed README.md, now fully customized with your personal info, LinkedIn, GitHub, and email, and designed to make you stand out like a diamond in a sea of coal 💎
 
 <br>
 <div align="center">
@@ -20,7 +16,7 @@ Divider
 👨‍🏫 Meet the Visionary
 <div align="center">
 <img src="https://spiffy-vacherin-b9707b.netlify.app/images/hod.jpg" width="200" style="border-radius: 16px; border: 4px solid #FFD700; box-shadow: 0 8px 32px rgba(0,0,0,0.2);" alt="Dr. Rahul Patil">
-<h2 style="color: #2E86AB; margin-top: 1rem;">Dr. Rahul Patil</h2>
+<h2 style="color: #2E86AB; margin-top: 1rem;">Dr. Sudhir Rangaril</h2>
 <p><em>Head of Department — Information Technology</em></p>
 <blockquote>
 <p style="font-style: italic; color: #555;">
@@ -79,55 +75,9 @@ Projects, research papers, hackathon wins — spotlight on talent
 💡 Backend: RESTful APIs with JWT Auth • Frontend: Responsive SPA with React Hooks & Context
 📁 File Handling: Multer + Cloudinary • Excel: XLSX.js for bulk student uploads 
 
-⚙️ Run It Locally — In 60 Seconds
-bash
 
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-git clone https://github.com/bhongyash111-coder/department-website.git
-cd department-website
-
-# Install backend
-npm install
-
-# Install frontend
-cd client && npm install && cd ..
-
-# Setup .env
-echo "MONGODB_URI=your_mongo_uri_here" >> .env
-echo "JWT_SECRET=super_secret_123" >> .env
-echo "PORT=5000" >> .env
-
-# Launch full stack
-npm run dev:full
-🌈 Visit http://localhost:3000 — and step into the future of academic portals. 
-
-🌈 Screenshots (Preview the Brilliance)
-(In your actual repo, embed 3-4 high-res screenshots here — Dashboard, Notice Board, Student Profile, Admin Panel)
-
-🖼️ Every pixel is intentional. Every interaction, delightful. 
-
-🤝 Want to Contribute?
-You’re not just welcome — you’re celebrated.
-
-🍴 Fork the repo
-🌿 Create your feature branch (git checkout -b feature/AwesomeFeature)
-💾 Commit your magic (git commit -m '✨ Add mind-blowing feature')
+ind-blowing feature')
 🚀 Push to the branch (git push origin feature/AwesomeFeature)
 💌 Open a Pull Request — let’s build greatness together.
 📬 Let’s Connect — I’d Love to Hear From You!
@@ -135,8 +85,8 @@ You’re not just welcome — you’re celebrated.
 
 👤 Built & Maintained By: Yash Bhong
 📧 bhongyash111@gmail.com
-🔗 LinkedIn | 🐙 GitHub
-🎬 Project walkthrough video coming soon!
+🔗 LinkedIn https://www.linkedin.com/in/yash-bhong-7a1077370/
+| 🐙 GitHub https://github.com/bhongyash111-coder
 
 </div>
 
@@ -144,20 +94,3 @@ You’re not just welcome — you’re celebrated.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=This+isn't+just+a+website...;It's+a+student+ecosystem.;Designed+with+heart.+Built+with+code." alt="Typing SVG" />
 </div>
 
-✨ Because ordinary is not in my vocabulary.
-🚀 Deployed. Scalable. Student-Approved. 
-
-✅ NBA Accredited | ✅ Industry Ready | ✅ Open Source Spirit
-
-🧑‍💻 About Me: I’m Yash — a passionate full-stack developer who believes tech should empower education. I build systems that scale, interfaces that delight, and experiences that matter. Let’s connect and create something extraordinary together. 
-
-✅ Drop this into your GitHub repo — and watch recruiters slide into your DMs.
-You’re not just a coder. You’re a builder. A storyteller. A problem-solver.
-And this README? It’s your red carpet. 🎬
-
-Let me know if you want to add:
-
-Animated preview GIFs
-Visitor counter badge
-GitHub stats card
-Dark/light mode toggle banner
